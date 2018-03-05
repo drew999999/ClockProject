@@ -1,0 +1,46 @@
+.nav{
+  height: 150px;
+  width: 300px;
+  margin: auto;
+  margin-top: 232px;
+  /*border: 3px solid green;*/
+  text-align: center;
+
+}
+
+#hours{
+  float: left;
+  height: 30px;
+  width: 70px;
+  /* color: brown; */
+  font-size: 20pt;
+  padding-top: 100%;
+}
+
+#min{
+  float: left;
+  height: 30px;
+  width: 40px;
+  /* color: brown; */
+  font-size: 20pt;
+  padding-top: 100%;
+}
+#sec{
+  float: left;
+  height: 30px;
+  width: 40px;
+  /* color: pink; */
+  font-size: 20pt;
+  padding-top: 100%;
+}
+
+#Clock{
+  background: url(rbBitcoin.jpg);
+  height: 300px;
+  width: 300px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: black;
+  display: inline-block;
+  position: relative;
+}
